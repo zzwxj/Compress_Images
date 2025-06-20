@@ -2,7 +2,8 @@
 图片压缩脚本__基于python一些压缩图片的库/工具
 
 # 安装依赖
-pip install Pillow  # 基础图片处理
+pip install opencv-python pillow numpy configparser
+#下载慢可以换源  -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 #推荐额外安装命令行工具（效果更佳）：
 
